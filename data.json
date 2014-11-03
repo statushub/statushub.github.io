@@ -1,4 +1,4 @@
 {
-  "pages": ["http://vg.no", "http://dagbladet.no", "http://itavisen.no", "http://engadget.com"],
-  "intervalPerPage": 3000
+  "pages": ["http://teknofil.no", "http://hw.no", "http://engadget.com"],
+  "intervalPerPageMs": 1000
 }
