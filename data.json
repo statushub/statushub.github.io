@@ -1,0 +1,4 @@
+{
+  "pages": ["http://vg.no", "http://dagbladet.no", "http://itavisen.no", "http://engadget.com"],
+  "intervalPerPage": 3000
+}
