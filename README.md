@@ -1,4 +1,0 @@
-statushub.pages.io
-==================
-
-StatusHub
