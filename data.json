@@ -1,4 +1,4 @@
 {
-  "pages": ["http://teknofil.no", "http://hw.no", "http://engadget.com"],
+  "pages": ["http://teknofil.no", "http://hw.no", "http://engadget.com", "http://www.bouvet.no"],
   "intervalPerPageMs": 1000
 }
