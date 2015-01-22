@@ -1,4 +1,4 @@
 {
-  "pages": ["http://teknofil.no", "http://hw.no", "http://engadget.com", "http://www.bouvet.no"],
-  "intervalPerPageMs": 1000
+  "pages": ["http://www.bouvet.no", "http://www.nrk.no/nyheter/", "http://apexdev.bouvet.no/pls/apex/f?p=102:3:0::::P2_ID:235423379808709330409259558936073796195"],
+  "intervalPerPageMs": 5000
 }
