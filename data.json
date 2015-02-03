@@ -1,4 +1,4 @@
 {
-  "pages": ["http://apexdev.bouvet.no/pls/apex/f?p=880:1", "http://www.nrk.no/nyheter/"],
+  "pages": ["http://apexdev.bouvet.no/pls/apex/f?p=880:1:0", "http://www.nrk.no/nyheter/"],
   "intervalPerPageMs": 5000
 }
