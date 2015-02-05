@@ -1,4 +1,4 @@
 {
-  "pages": ["http://apexdev.bouvet.no/pls/apex/f?p=880:1:0", "http://apexdev.bouvet.no/pls/apex/f?p=ServiceDashboard:DASH:0"],
+  "pages": ["http://apexdev.bouvet.no/pls/apex/f?p=102:3:0::::P2_ID:235423379808709330409259558936073796195", "http://apexdev.bouvet.no/pls/apex/f?p=ServiceDashboard:DASH:0"],
   "intervalPerPageMs": 5000
 }
