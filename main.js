@@ -22,7 +22,7 @@ $(function() {
       controlNav: false,
       directionNav: false,
 
-      animation: "slide",
+      animation: "fade",
       animationLoop: true,
 
       slideshowSpeed: slideShowSpeed,
